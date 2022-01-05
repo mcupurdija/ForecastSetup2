@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ForecastSetup2</string>
+
+    <string name="error_network_call_failed_title">Oops</string>
+    <string name="error_network_call_failed_message">network call failed</string>
+    <string name="error_network_call_failed_positive_button_caption">Retry</string>
+    <string name="error_network_call_failed_negative_button_caption">Close</string>
+    <string name="error_network_call_failed">network call failed</string>
+    <string name="drawer_menu_item_forecast">Forecast</string>
+
+    <string name="permission_dialog_title">Permission dialog</string>
+    <string name="permission_dialog_button_caption">OK</string>
+    <string name="permission_dialog_granted_message">Permission granted</string>
+    <string name="permission_dialog_cant_ask_more">Permission declined and can\'t ask anymore</string>
+    <string name="permission_dialog_user_declined">Permission declined</string>
+</resources>
